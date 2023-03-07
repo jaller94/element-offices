@@ -498,7 +498,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/meet.element.io\/Kitchen"
+                         "value":"Kitchen"
                         }],
                  "rotation":0,
                  "visible":true,
