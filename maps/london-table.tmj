@@ -92,7 +92,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":128,
                  "id":20,
                  "name":"silentZone2",
@@ -103,6 +102,7 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":0,
@@ -187,7 +187,7 @@
          "value":"\/src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -347,6 +347,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":4
 }

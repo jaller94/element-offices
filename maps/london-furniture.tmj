@@ -230,7 +230,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":128,
                  "id":13,
                  "name":"jitsiChillZone",
@@ -246,13 +245,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":192,
                  "x":32,
                  "y":96
                 }, 
                 {
-                 "class":"area",
                  "height":138.275380189067,
                  "id":14,
                  "name":"silentZone",
@@ -263,13 +262,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":127.41142622277,
                  "x":64,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":229.137690094534,
                  "id":16,
                  "name":"jitsiMeetingRoom",
@@ -280,13 +279,13 @@
                          "value":"MeetingRoom"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":192,
                  "x":256,
                  "y":96
                 }, 
                 {
-                 "class":"area",
                  "height":132.549566789971,
                  "id":19,
                  "name":"jitsiCoworking",
@@ -302,6 +301,7 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":124.182736128237,
                  "x":384,
@@ -417,7 +417,7 @@
          "value":"\/src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -575,6 +575,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":28
 }

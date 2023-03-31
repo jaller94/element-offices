@@ -489,7 +489,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":168.808714242085,
                  "id":20,
                  "name":"jitsiChillZone",
@@ -500,13 +499,13 @@
                          "value":"ChillZone"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":200.359157080322,
                  "x":315.364348976891,
                  "y":474.839865621501
                 }, 
                 {
-                 "class":"area",
                  "height":81.7220121144253,
                  "id":21,
                  "name":"silentZone",
@@ -517,13 +516,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":109.168100682073,
                  "x":636.821833808409,
                  "y":150.689436781024
                 }, 
                 {
-                 "class":"area",
                  "height":81.722,
                  "id":22,
                  "name":"silentZone",
@@ -534,13 +533,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":109.168,
                  "x":705.232756591673,
                  "y":313.05124676779
                 }, 
                 {
-                 "class":"area",
                  "height":168.809,
                  "id":23,
                  "name":"jitsiKitchen",
@@ -551,13 +550,13 @@
                          "value":"RennesKitchen"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":298.870656316808,
                  "x":25.6965052936985,
                  "y":90.7273334521022
                 }, 
                 {
-                 "class":"area",
                  "height":171.545434897689,
                  "id":24,
                  "name":"jitsiCornerOffice",
@@ -568,6 +567,7 @@
                          "value":"RennesCornerOffice"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":235.932997353151,
                  "x":698.85931828362,
@@ -697,7 +697,7 @@
          "value":"\/src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -855,6 +855,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":30
 }
